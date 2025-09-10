@@ -2,7 +2,7 @@
 
 This document outlines the latest thinking on core system use cases that we are focusing on in our Flexibility Market Asset Registration (FMAR) solution workshops.
 
-What is FMAR: In short, the FMAR solution is an IT system that provide an authoritative master record to keep track of (register) data about flexible assets and flexibility service providers. It would provide a unified API and reporting layer, support role-based access control on a non-discriminatory basis, and be underpinned by a common data model and shared ontology for GB flexibility markets. It will be an essential part of a future flexibility value chain to support Clean Power 2030 ambitions and realise the business (and public) value expanded on [here](elexon-data/Market-Facilitator/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/Business Use Case Catalogue/readme.md). 
+**What is FMAR**: In short, the FMAR solution is an IT system that helps to keep track of (register) data about flexible assets and flexibility service providers. It would provide a source of truth on this data and provide common-levels of access to industry (and individual) users, underpinned by a common data model and shared ontology for GB flexibility markets. It will be an essential part of a future flexibility value chain to support decarbonisation and realise the business (and public) value expanded on [here](https://github.com/elexon-data/Market-Facilitator/tree/main/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/Business%20Use%20Case%20Catalogue). 
 
 The following diagram illustrates the concept of the FMAR solution in the GB energy market.
 
@@ -42,16 +42,13 @@ The FMAR workshops will work through the many unanswered questions related to th
 
 ---
 
-Note on Modules.
+*Note on Module terminology*
 
 As part of early thinking on FMAR functionality a set of modules were introduced in Workshop 1. The modules illustrate that FMAR intends to operate through modular components with some data flows potentially using a federated architecture via the DSI (e.g., enabling a resource synchronisation strategy). The modules reflect logical groupings to the lifecycle of asset data in the Qualification phase of flexibility markets.
 
-### Module Key
-
+# Module Key
 - **SPUM** – Service Provider & User Module  
 - **ARM** – Asset Registration Module  
 - **PSQM** – Product & Service Qualification Module  
 - **GICM** – Grid Interaction & Constraints Module  
-- **API Layer** – Federated data access layer for authorised consumers  
-- **Reporting Layer** – Common reporting interface drawing from all modules
 
