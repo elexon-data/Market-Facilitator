@@ -42,6 +42,16 @@ The FMAR workshops will work through the many unanswered questions related to th
 
 ---
 
+*Note on new System Use Case group being explored (will add soon if supported in WS2)*
+
+System Use Case Group explicitly related to **Data Quality Management** which would specify system uses cases for: 
+* Define and maintain DQ Rules (Admin)
+* Validate and score data at ingestion
+* View data quality scorecard
+* Manage a data discrepancy 
+
+
+
 *Note on Module terminology*
 
 As part of early thinking on FMAR functionality a set of modules were introduced in Workshop 1. The modules illustrate that FMAR intends to operate through modular components with some data flows potentially using a federated architecture via the DSI (e.g., enabling a resource synchronisation strategy). The modules reflect logical groupings to the lifecycle of asset data in the Qualification phase of flexibility markets.
