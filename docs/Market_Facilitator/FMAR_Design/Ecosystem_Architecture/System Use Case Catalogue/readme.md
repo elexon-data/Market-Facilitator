@@ -4,9 +4,10 @@ This document outlines the latest thinking on core system use cases that we are 
 
 **What is FMAR**: In short, the FMAR solution is an IT system that helps to keep track of (register) data about flexible assets and flexibility service providers. It would provide a source of truth on this data and provide common-levels of access to industry (and individual) users, underpinned by a common data model and shared ontology for GB flexibility markets. It will be an essential part of a future flexibility value chain to support decarbonisation and realise the business (and public) value expanded on [here](https://github.com/elexon-data/Market-Facilitator/tree/main/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/Business%20Use%20Case%20Catalogue). 
 
-The following diagram illustrates the concept of the FMAR solution in the GB energy market.
+The following diagram illustrates the concept of the FMAR solution in the GB energy market. The red line text indicates some of the many unanswered questions about how FMAR relates to the broader ecosystem.
 
-*Diagram to be finalised*
+<img width="1122" height="1125" alt="image" src="https://github.com/user-attachments/assets/399b0cd0-cdc5-4dca-bb82-a6f6972329f0" />
+
 
 The FMAR workshops will work through the many unanswered questions related to the FMAR solution. This diagram should serve as a starting point for discussion and one way to visualise the concept we are developing.
 
