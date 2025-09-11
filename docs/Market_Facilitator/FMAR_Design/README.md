@@ -23,7 +23,8 @@ This repository contains the design documentation for the FMAR project. Use the 
 
 * [Programme Level](https://github.com/mez-FMDA/Market-Facilitator-FMAR/tree/main/docs/Market_Facilitator/FMAR_Design/Programme_Level)
 * [Ecosystem Architecture](https://github.com/mez-FMDA/Market-Facilitator-FMAR/tree/main/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture)
-  * [Use Case Catalogue](https://github.com/Mez-Elexon/Market-Facilitator-FMAR/tree/main/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/Use%20Case%20Catalogue)
+  * [Business Use Case Catalogue](https://github.com/elexon-data/Market-Facilitator/tree/main/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/Business%20Use%20Case%20Catalogue)
+  * [System Use Case Catalogue](https://github.com/elexon-data/Market-Facilitator/tree/main/docs/Market_Facilitator/FMAR_Design/Ecosystem_Architecture/System%20Use%20Case%20Catalogue)
 
 **Please Note:** Only authorised members of the FMAR Architecture Team can commit changes and merge pull requests to the main branches of this repository to ensure quality and control. All industry feedback provided via Issues and Discussions will be reviewed, and if accepted, incorporated into subsequent versions of the artefacts by the team. For more detail on our Architectural Team workflow, please refer to our overview on the programme page.
 
