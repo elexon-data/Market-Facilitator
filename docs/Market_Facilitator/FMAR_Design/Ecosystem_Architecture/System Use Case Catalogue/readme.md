@@ -6,7 +6,7 @@ This document outlines the latest thinking on core system use cases that we are 
 
 The following very rough diagram illustrates the concept of the FMAR solution in the GB energy market. The red line text indicates some of the many unanswered questions about how FMAR relates to the broader ecosystem.
 
-<img width="1122" height="1125" alt="image" src="https://github.com/user-attachments/assets/399b0cd0-cdc5-4dca-bb82-a6f6972329f0" />
+<img width="1599" height="1051" alt="image" src="https://github.com/user-attachments/assets/641f8a3b-b592-4215-83f1-fd58f616bfe8" />
 
 
 The FMAR workshops will work through the many unanswered questions related to the FMAR solution. This diagram should serve as a starting point for discussion and one way to visualise the concept we are developing.
