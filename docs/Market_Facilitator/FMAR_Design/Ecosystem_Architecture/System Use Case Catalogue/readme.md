@@ -1,3 +1,16 @@
+> ⚠️ **Repository Status Notice – Deprecated Content**
+>
+> This repository contains **early design artefacts produced prior to the Market Facilitator go-live**.  
+> The materials here reflect **exploratory and pre-implementation work** undertaken to inform initial thinking on market processes, data models, and architecture.
+>
+> These artefacts are **no longer actively maintained** and **do not represent the current or authoritative position** of the Market Facilitator.
+>
+> They are retained **for transparency and historical reference only**.
+>
+> For up-to-date documentation, active designs, and current engagement routes, please refer to the **official Market Facilitator repositories and publications**.
+
+
+
 # FMAR System Use Case Catalogue
 
 This document outlines the latest thinking on core system use cases that we are focusing on in our Flexibility Market Asset Registration (FMAR) solution workshops.
