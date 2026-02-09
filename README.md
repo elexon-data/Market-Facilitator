@@ -1,6 +1,16 @@
 # Market Facilitator Repository
 
 <div style="background-color: #fff3b0; border-left: 5px solid #ffbf47; padding: 1em; margin-bottom: 1em;">
+  <strong>⚠️ DEPRECATED – Pre–Market Facilitator Design Artefact</strong><br>
+  This repository contains early design artefacts produced prior to the Market Facilitator go-live.
+  Content reflects exploratory, pre-implementation activity and is no longer actively maintained or authoritative.
+  It is retained for transparency and historical reference only. For current documentation and engagement, see
+  <a href="https://www.elexon.co.uk/flexibility-markets/">Elexon Flexibility Markets</a>.
+</div>
+
+<br>
+
+<div style="background-color: #fff3b0; border-left: 5px solid #ffbf47; padding: 1em; margin-bottom: 1em;">
   <strong>⚠️ BETA – This repository is in early design and may change frequently.</strong><br>
   This is a new service. Help us improve it – <a href="mailto:communications@elexon.co.uk">give your feedback by email</a>.
 </div>
